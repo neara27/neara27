@@ -1,6 +1,6 @@
 ### Counter
 <p>
-  <a href="https://moe.neara.cyou/"><img src="https://moe.neara.cyou/get/@:neara27?theme=rule34"></a>
+  <img src="https://moe.neara.cyou/get/@:neara27?theme=rule34"></a>
 </p>
 ### 特に書くこともないです
 
