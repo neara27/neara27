@@ -1,6 +1,6 @@
 ### Counter
 <p>
-  <img src="https://moe.neara.cyou/get/@:neara27?theme=rule34"></a>
+  <img src="https://count.getloli.com/get/@neara27?theme=rule34"></a>
 </p>
 'JavaScript/TypeScript' = 🤔
 
